@@ -1,0 +1,128 @@
+{
+    "31337": {
+        "Elephant": {
+            "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+        },
+        "Shark": {
+            "address": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+        },
+        "Tiger": {
+            "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+        },
+        "Wolf": {
+            "address": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
+        },
+        "Dolphin": {
+            "address": "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9"
+        },
+        "Fox": {
+            "address": "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707"
+        },
+        "Camel": {
+            "address": "0x0165878A594ca255338adfa4d48449f69242Eb8F"
+        },
+        "Platypus": {
+            "address": "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853"
+        },
+        "Cat": {
+            "address": "0x2279B7A0a67DB372996a5FaB50D91eAA73d2eBe6"
+        },
+        "Cow": {
+            "address": "0x8A791620dd6260079BF849Dc5567aDC3F2FdC318"
+        },
+        "Iguana": {
+            "address": "0x610178dA211FEF7D417bC0e6FeD39F05609AD788"
+        },
+        "Needlefish": {
+            "address": "0xB7f8BC63BbcaD18155201308C8f3540b07f84F5e"
+        },
+        "Dog": {
+            "address": "0xA51c1fc2f0D1a1b8494Ed1FE312d7C3a78Ed91C0"
+        },
+        "Goat": {
+            "address": "0x0DCd1Bf9A1b36cE34237eEaFef220932846BCD82"
+        },
+        "Fish": {
+            "address": "0x9A676e781A523b5d0C0e43731313A708CB607508"
+        },
+        "Scorpion": {
+            "address": "0x0B306BF915C4d645ff596e518fAf3F9669b97016"
+        },
+        "Donkey": {
+            "address": "0x959922bE3CAee4b8Cd9a407cc3ac1C251C2007B1"
+        },
+        "Vulture": {
+            "address": "0x9A9f2CCfdE556A7E9Ff0848998Aa4a0CFD8863AE"
+        },
+        "Duck": {
+            "address": "0x68B1D87F95878fE05B998F19b66F4baba5De1aed"
+        },
+        "exchange": {
+            "address": "0x3Aa5ebB10DC797CAC828524e59A333d0A371443c"
+        },
+        "explorerUrl": "#"
+    },
+    "5" : {
+        "Elephant": {
+            "address": "0xa13dB3870F314E6E230ca674cA8cA8173d06C8C3"
+        },
+        "Shark": {
+            "address": "0x47CF8F55B4819091a117E958458f3fe8632252e9"
+        },
+        "Tiger": {
+            "address": "0xAC15314691AB949505E398b8b5019cd5423Dc8B9"
+        },
+        "Wolf": {
+            "address": "0x7CE982caBd1804064c4d32460c8A68435Ef91fF6"
+        },
+        "Dolphin": {
+            "address": "0x538a757bdcf09e02B3b388748d5ecED5bd8632a4"
+        },
+        "Fox": {
+            "address": "0xfAF5AF56CD26A22B58828b6dbDC5ECEa24e9AAaE"
+        },
+        "Camel": {
+            "address": "0x17f2651bB69eC111743B4cF85e5084004BBd50f9"
+        },
+        "Platypus": {
+            "address": "0x26E651e22a35EC33f9C815F73d85A74f28CA2Ed0"
+        },
+        "Cat": {
+            "address": "0x357a8ef68a6A67768133cF76c2614B8c9d10f009"
+        },
+        "Cow": {
+            "address": "0xE6b45e60afc07866697fe10553287Ba339fE5849"
+        },
+        "Iguana": {
+            "address": "0xf18bedc33A99Ac6b7A9Fa234482002462c16846E"
+        },
+        "Needlefish": {
+            "address": "0xF8cf1740d6e451a318Ed590658fB27CB90ee550a"
+        },
+        "Dog": {
+            "address": "0x1CA0a28660BA7739392AaD7B6c48B2625e201fD9"
+        },
+        "Goat": {
+            "address": "0xF6FCada96693CDe910027dD6a0867c351Dbb15E3"
+        },
+        "Fish": {
+            "address": "0x54684aBE40051A8fa105B6E442429A754c05779e"
+        },
+        "Scorpion": {
+            "address": "0x716478A6478864D54d318bBBde834298B57D5846"
+        },
+        "Donkey": {
+            "address": "0x0c29EBA4A68B0C8eA1241c81063F6A0c20a4CAc6"
+        },
+        "Vulture": {
+            "address": "0x114C3118558aa68407F929895894856ef6DB6A1f"
+        },
+        "Duck": {
+            "address": "0x5BA476BF41b4BCD3Cf84884eBf8ECF6F01BFaF8D"
+        },
+        "exchange": {
+            "address": "0x24cE9598caF695617DF732A6722a7aA0a6dBA97b"
+        },
+        "explorerUrl": "https://goerli.etherscan.io/"
+    }
+}
