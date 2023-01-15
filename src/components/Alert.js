@@ -9,6 +9,7 @@ const Alert = () => {
     const account = useSelector(state => state.provider.account)
     const events = useSelector(myEventsSelector)
     const network = useSelector(state => state.provider.network)
+    const chainId = useSelector(state => state.provider.chainId)
     
     const alertRef = useRef(null)
 
@@ -36,7 +37,7 @@ const Alert = () => {
             <div ref={alertRef} onClick={removeHandler} className="alert alert--remove">
                 <h1>Transaction Successful</h1>
                 <a
-                    href={config[network] ? `${config[network].explorerUrl}/tx/${events[0].transactionHash}` : '#'}
+                    href={config[chainId] ? `${config[chainId].explorerUrl}/tx/${events[0].transactionHash}` : '#'}
                     target='_blank'
                     rel='noreferrer'
                 >
